@@ -1,5 +1,8 @@
 package com.atguigu.git;
 
 public class Haapy {
-
+	
+	public static void main(String[] args) {
+		System.out.println("edit by right");
+	}
 }
